@@ -11,7 +11,9 @@ specs:
   - more-itertools
   - geopandas
   - pandas
+  - pytest
   - rasterio
+  - tqdm
 license_file: COPYING
   # welcome_image: photo.png  # [win]
 installer_type: pkg
