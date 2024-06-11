@@ -6,6 +6,12 @@ specs:
   - qgis=__ver__
   - python=3.11
   - libgdal-arrow-parquet
+  - beautifulsoup4
+  - exifread
+  - more-itertools
+  - geopandas
+  - pandas
+  - rasterio
 license_file: COPYING
   # welcome_image: photo.png  # [win]
 installer_type: pkg
